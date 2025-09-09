@@ -1,1 +1,3 @@
 "Hello- Mason"
+"Able to see Chagnes with pull" - Mason
+"Now Push" - Mason
